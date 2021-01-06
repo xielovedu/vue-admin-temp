@@ -1,0 +1,14 @@
+{
+    "useTabs": true,
+    "minapp-vscode.resolveRoots": ["node_modules", "src"],
+    "printWidth": 160,
+    "jsxSingleQuote": true,
+    "javascript.format.insertSpaceAfterSemicolonInForStatements": false,
+    "typescript.format.insertSpaceAfterSemicolonInForStatements": false,
+    "requireConfig": true,
+    "useEditorConfig": false,
+    "tabWidth": 4,
+    "singleQuote": true,
+    "semi": false,
+    "htmlWhitespaceSensitivity": "ignore"
+}
